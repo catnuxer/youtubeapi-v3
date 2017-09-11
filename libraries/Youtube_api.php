@@ -11,11 +11,11 @@ class Youtube_api
 	protected $lib;
 
 	public function __construct()
-  	{
+	{
 		$this->lib=new youtubeApiService();
 		$ci=&get_instance();
 		$this->lib->set_param(YOUR_YOUTUBE_API_KEY_V3); //Set your youtube api key v3 here.
-  	}
+	}
 
 	public function get_videoId($data)
 	{
