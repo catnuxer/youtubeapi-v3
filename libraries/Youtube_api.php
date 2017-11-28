@@ -1,6 +1,6 @@
 <?php
 /*
-* Write by catnuxer
+* Write by Chuli jimmi Manurung
 * Email jimmi.ext@gmail.com
 * Feel free to use :thumsup
 */
